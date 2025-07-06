@@ -2,6 +2,9 @@
 
 ![Hire me](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVhbTh0YmJzMW94emI1c2tucDIzbnVqcmVrbWVraG1ucW5jc2gwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3QST0013iD8yamds4/giphy.gif)
 
+> [!TIP]
+> Contact me via [LinkedIn](https://www.linkedin.com/in/gordonmleigh/)
+
 ## ✅ Top 5 Reasons to Hire Me
 
 ### 1. I'm an expert in Full-Stack TypeScript (React/Node.js) development
@@ -99,7 +102,7 @@ _C#, .NET, WPF, WCF, XAML, WIX/Windows Installer, SQL Server, JavaScript, Docker
 
 - Co-founded a software development consultancy which specialized in complex automation projects
 - Delivered a number of website, embedded, and desktop applications for a range of clients
-- Focus project [MethaMeasure](https://methameasure.co.uk/): Patient Medication Record (PMR) and drug dispensing system
+- Focus project: [MethaMeasure](https://methameasure.co.uk/): Patient Medication Record (PMR) and drug dispensing system
   - Worked closely with client for a period of three years, variously as sole or principal developer
   - Designed and built second-generation system from ground up
   - Innovated on UX to greatly improve user efficiency for common tasks and reduce customer support resource requirements by 90%
