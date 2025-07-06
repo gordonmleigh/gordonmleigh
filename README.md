@@ -73,21 +73,13 @@ _TypeScript, React, Node.JS, DynamoDB, PostgreSQL, AWS, CloudFormation, GCP, Go,
   - Built cloud-native management and customer portals to power product
   - Led integration between hardware vendor and the software platform
   - Shaped strategy towards building a digital platform for customers to build on top of rather than just a standalone product
-- [Vistalworks](https://vistalworks.com/): counterfeit detection system
-  - Led a team of three engineers, acting as a force multiplier
-- [London Specialist Pharmacy](https://specialist-pharmacy.com/): compounding pharmacy
-  - Delivered technical specification for a pharmaceutical ordering and manufacturing information system, making sense of a complex domain to allow outsourcing of software development to a less specialist agency
 - [Visible Capital](https://visiblecapital.io/): financial assessment product
   - Led product definition for, then designed and built financial assessment product
   - I built a scalable event-driven architecture and Open Banking (PSD2) API integration
-- [PresentPal](https://presentpal.co.uk/): assistive technology
-  - Built MS PowerPoint Add-In to sync with existing flashcard app and allow control of slideshow using AWS API Gateway WebSockets
-  - Added corresponding functionality to existing Xamarin app
 - [Phlo Digital Pharmacy](https://wearephlo.com/): online pharmacy
   - Heavily involved in product and regulatory compliance strategy
   - Led technical and implementation strategy, managed developers and external agency
   - Improved processes to boost cross-functional collaboration and delivery velocity
-- [Curious Chip](https://www.thisispip.com/): firmware for educational device based on Raspberry Pi
 
 ### Senior Developer, [Coats Group plc](https://www.coats.com/en/) (July 2017–February 2018)
 
@@ -102,7 +94,7 @@ _C#, .NET, WPF, WCF, XAML, WIX/Windows Installer, SQL Server, JavaScript, Docker
 
 - Co-founded a software development consultancy which specialized in complex automation projects
 - Delivered a number of website, embedded, and desktop applications for a range of clients
-- Focus project: [MethaMeasure](https://methameasure.co.uk/): Patient Medication Record (PMR) and drug dispensing system
+- [MethaMeasure](https://methameasure.co.uk/): Patient Medication Record (PMR) and drug dispensing system
   - Worked closely with client for a period of three years, variously as sole or principal developer
   - Designed and built second-generation system from ground up
   - Innovated on UX to greatly improve user efficiency for common tasks and reduce customer support resource requirements by 90%
