@@ -63,13 +63,6 @@ _TypeScript, React, Node.JS, DynamoDB, PostgreSQL, AWS, CloudFormation_
 - Led product research and design for a new residential tenant management system, continuing as lead developer to build a cloud- native, event-driven architecture on AWS
 - Successfully managed process, scope, and client expectations to deliver ambitious project in tight timescale
 
-### Senior Developer, [Coats Group plc](https://www.coats.com/en/) (July 2017–February 2018)
-
-_C#, .NET, MS SQL Server, WPF, Windows Forms_
-
-- Quickly got up to speed with legacy codebase and acquired extensive domain knowledge such as color and dying theory
-- Managed a contractor and contributed to debugging, architecture decisions and development for a factory automation project
-
 ### Founder, Product and Technical Consultant, Futurematik Ltd (March 2018–June 2021)
 
 _TypeScript, React, Node.JS, DynamoDB, PostgreSQL, AWS, CloudFormation, GCP, Go, Kubernetes_
@@ -95,6 +88,13 @@ _TypeScript, React, Node.JS, DynamoDB, PostgreSQL, AWS, CloudFormation, GCP, Go,
   - Led technical and implementation strategy, managed developers and external agency
   - Improved processes to boost cross-functional collaboration and delivery velocity
 - [Curious Chip](https://www.thisispip.com/): firmware for educational device based on Raspberry Pi
+
+### Senior Developer, [Coats Group plc](https://www.coats.com/en/) (July 2017–February 2018)
+
+_C#, .NET, MS SQL Server, WPF, Windows Forms_
+
+- Quickly got up to speed with legacy codebase and acquired extensive domain knowledge such as color and dying theory
+- Managed a contractor and contributed to debugging, architecture decisions and development for a factory automation project
 
 ### Co-Founder, Product and Technical Consultant, Stugo Ltd (July 2008–July 2017)
 
