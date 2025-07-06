@@ -109,7 +109,7 @@ _C#, .NET, WPF, WCF, XAML, WIX/Windows Installer, SQL Server, JavaScript, Docker
   - Integrated several external software and hardware systems, including pump hardware, biometrics, and pharmacy prescribing systems
   - Delivered new requirements quickly and efficiently to enable business expansion into nationwide pharmacy chains
 
-## Education
+## 🎓 Education
 
 - telc Deutsch B1
 - MSc (with Merit) Medical Devices, University of Strathclyde, Glasgow
