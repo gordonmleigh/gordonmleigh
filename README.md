@@ -39,7 +39,7 @@ _TypeScript, React, Node.JS, DynamoDB, PostgreSQL, AWS, CloudFormation_
 
 - Migration of critical legacy vehicle data system from Perl to TypeScript to future-proof system and remove single-developer dependency
 
-### Engineering Manager, [Gigs (YC 2021)](https://gigs.com/) (September 2022–June 2024)
+### Engineering Manager, [Gigs (YC 2021)](https://gigs.com/) (December 2022–June 2024)
 
 _TypeScript, React, Node.JS, Next.JS, GCP_
 
