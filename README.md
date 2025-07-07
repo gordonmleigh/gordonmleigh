@@ -9,7 +9,7 @@
 
 ### 1. I'm an expert in Full-Stack TypeScript (React/Node.js) development
 
-I've focused mostly on building full-stack TypeScript applications since 2017, letting me build a decent level of expertise with TypeScript, React, Node.js, and cloud-native technologies such as AWS Lambda, SQS, SNS, and API Gateway.
+I've focused mostly on building full-stack TypeScript applications since 2017, building expertise with TypeScript, React, Node.js, and cloud-native technologies such as AWS Lambda, SQS, SNS, and API Gateway.
 
 ### 2. I'm a multi-technologist
 
@@ -39,7 +39,7 @@ _TypeScript, React, Node.JS, DynamoDB, PostgreSQL, AWS, CloudFormation_
 
 - Migration of critical legacy vehicle data system from Perl to TypeScript to future-proof system and remove single-developer dependency
 
-### Engineering Manager, [Gigs GmbH](https://gigs.com/) (September 2022–June 2024)
+### Engineering Manager, [Gigs (YC 2021)](https://gigs.com/) (September 2022–June 2024)
 
 _TypeScript, React, Node.JS, Next.JS, GCP_
 
@@ -47,7 +47,7 @@ _TypeScript, React, Node.JS, Next.JS, GCP_
 - Led improvements in product definition, cross-team comms and scoping to boost delivery velocity from less than once per month to more than once per week on average
 - Successfully promoted quality and openness of feedback via focus on effective retros to provide platform of continuous improvement and growth
 
-### Senior Front-End Engineer, [Gigs GmbH](https://gigs.com/) (September 2022–November 2022)
+### Senior Front-End Engineer, [Gigs (YC 2021)](https://gigs.com/) (September 2022–November 2022)
 
 _TypeScript, React, Node.JS, Next.JS, GCP_
 
