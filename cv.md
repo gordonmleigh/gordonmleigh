@@ -22,7 +22,7 @@ _TypeScript, React, Tailwind, Node.js, REST API, Next.js, Jest, Cypress, GCP, Te
 - Promoted to hybrid IC/EM within 3 months due to high-impact improvements to collaboration and definition
 - Accelerated releases from 1/month to more than 1/week through continuous improvement strategy
 - Saved $50k in annual vendor costs by building tool to generate TypeScript SDK from our OpenAPI Spec
-- Enabled browser-side visualization and search of 250 GB of cellular data with design of geo indexing system
+- Enabled browser-side visualization and search of 250 GB of cellular coverage data with design of geospatial index
 - Contributed to customer-facing platform API design; participated in internal RFC process
 - Proactively reduced customer domain setup time from days to minutes by building an internal tool for CS team
 - Improved team motivation and satisfaction through effective 1:1s with engineers
@@ -40,14 +40,14 @@ _TypeScript, React, Node.js, DynamoDB, PostgreSQL, AWS, CloudFormation, Jest, Gi
 _TypeScript, React, Node.js, Jest, node:test, DynamoDB, PostgreSQL, AWS, CloudFormation, GCP, Go, Kubernetes, GitHub Actions_
 
 - Founded product studio specializing in cross-functional impact: development, product definition, launch strategy, market positioning, and team scaling
-- Built multiple cloud-native web applications (TypeScript/React SPA with TypeScript/Node.js REST API and DynamoDB) and delivered devops tools in JavaScript, TypeScript and Go
+- Built 10 cloud-native TypeScript/React web applications with TypeScript/Node.js REST APIs
+- Built 20 Node.js packages in TypeScript, and an embedded Raspberry Pi firmware in Go
 - Grew client revenues by positioning products as platforms, leveraging third party value-add over internal engineering spend
-- Built integrations with many third party services (REST, GraphQL and SOAP) including Stripe, email, SMS, auth, last-mile delivery
-- Designed and built hardware/software integrations, including a secure prescription medicine collection system
+- Built integrations with 14 third party services (REST, GraphQL and SOAP) including payments, auth, delivery
+- Designed and built 2 hardware integrations, including a secure prescription medicine collection system
 - Designed an integrated ordering and automated manufacturing system for a compounding pharmacy business
 - Managed teams of up to 10; mentored engineers, product managers, and designers
 - Implemented continuous improvement strategies to build high-performing teams
-- Built tests for Jest, IaC on CloudFormation, CI/CD on GitHub Actions
 
 ### Senior Developer, Coats Group plc (July 2017–February 2018)
 
